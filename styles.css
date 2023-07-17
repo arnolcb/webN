@@ -3,7 +3,7 @@ body {
   background-color: #f5f5f5;
   margin: 0;
   padding: 0;
-  background-image: url(disco.gif);
+  background-image: url(/img/disco.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -54,4 +54,15 @@ h2 {
 
 .lyrics p {
   font-size: 27px;
+}
+
+.button-container{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#new-page{
+  font-family: monospace;
 }
