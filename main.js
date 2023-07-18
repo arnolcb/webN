@@ -6,6 +6,7 @@ var lyrics = [
     ["It's just the pits without you baby", "Son solo los pozos sin ti, nena", 28],
     ["It's really just the pits without you baby", "Es realmente solo lo peor sin ti, nena", 34],
     ["It's like everyone's a dick without you baby", "Es como si todo el mundo fuera un idiota sin ti, cariño", 39],
+    ["Ain't I fallen in love?", "¿No me he enamorado?", 47]
     ["And all my pals will tell me that I'm crazy", "Y todos mis amigos me dirán que estoy loco", 54],
     ["You bet I'm loopy alright!", "¡Puedes apostar que estoy loco!", 65],
     ["And I just don't recognize this fool that you", "Y simplemente no reconozco a este tonto", 77],
